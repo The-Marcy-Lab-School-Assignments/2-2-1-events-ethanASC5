@@ -1,4 +1,5 @@
 // These are your event handlers
+/** FEEDBACK: I love all of this documentation! Keep it up!!!!  */
 const clickCounterHandler = (event) => {
   // referring to the thing being selected by event listener
   const buttonClicked = event.target;
